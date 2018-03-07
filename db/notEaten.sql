@@ -1,0 +1,1 @@
+select * from burgers where eaten is false;
